@@ -1,0 +1,2 @@
+az group create --name <resource-group-name> --location <resource-group-location>
+az group deployment create --resource-group <my-resource-group> --template-uri https://github.com/NavCloud/NavCloud/blob/main/deploy.json
