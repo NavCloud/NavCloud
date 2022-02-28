@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NavCloud
-- 👀 I’m interested in Cloud Computing and specialized in Azure Cloud services (IaaS, PaaS, CaaS, FaaS, Azure Kubernetest service, ARM).
+- 👀 I’m interested in Cloud Computing and specialized in Azure Cloud services (IaaS, PaaS, CaaS, FaaS, Azure Kubernetest service, ARM templates).
 - 🌱 I’m currently learning DevOps, AWS & GCP.
 - 💞️ I’m looking to collaborate on Cloud Computing
 - 📫 You can reach out to me on my email navidthecloudexpert@outlook.com
